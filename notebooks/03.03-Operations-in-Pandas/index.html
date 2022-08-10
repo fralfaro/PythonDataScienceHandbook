@@ -2558,18 +2558,7 @@ Licensed under the Apache License, Version 2.0.
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="operating-on-data-in-pandas">Operating on Data in Pandas<a class="anchor-link" href="#operating-on-data-in-pandas">&#182;</a></h1>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>One of the essential pieces of NumPy is the ability to perform quick element-wise operations, both with basic arithmetic (addition, subtraction, multiplication, etc.) and with more sophisticated operations (trigonometric functions, exponential and logarithmic functions, etc.).
+<h1 id="operating-on-data-in-pandas">Operating on Data in Pandas<a class="anchor-link" href="#operating-on-data-in-pandas">&#182;</a></h1><p>One of the essential pieces of NumPy is the ability to perform quick element-wise operations, both with basic arithmetic (addition, subtraction, multiplication, etc.) and with more sophisticated operations (trigonometric functions, exponential and logarithmic functions, etc.).
 Pandas inherits much of this functionality from NumPy, and the ufuncs that we introduced in <a href="02.03-Computation-on-arrays-ufuncs.ipynb">Computation on NumPy Arrays: Universal Functions</a> are key to this.</p>
 <p>Pandas includes a couple useful twists, however: for unary operations like negation and trigonometric functions, these ufuncs will <em>preserve index and column labels</em> in the output, and for binary operations such as addition and multiplication, Pandas will automatically <em>align indices</em> when passing the objects to the ufunc.
 This means that keeping the context of data and combining data from different sources–both potentially error-prone tasks with raw NumPy arrays–become essentially foolproof ones with Pandas.
