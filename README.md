@@ -8,7 +8,7 @@
 This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks.
 The book is built using [mkdocs](https://www.mkdocs.org/).
 
-> **Note: this repository is an alternative to the official [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) documentation.**
+> **Note**: this repository is an alternative to the official [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) documentation.
 
 ![cover image](docs/notebooks/figures/PDSH-cover.png)
 
