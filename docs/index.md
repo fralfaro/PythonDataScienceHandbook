@@ -1,4 +1,4 @@
-# Python Data Science Handbook
+# Welcome to Python Data Science Handbook!
 
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" alt="img python" 
      width="300" height="400"  align="left" >
