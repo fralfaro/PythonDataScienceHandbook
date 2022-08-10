@@ -1,7 +1,7 @@
 # Welcome to Python Data Science Handbook!
 
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" alt="img python" 
-     width="300" height="400"  align="left" >
+     width="300" height="400"  align="right" >
 
 This is the Jupyter notebook version of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas; the content is available [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 
