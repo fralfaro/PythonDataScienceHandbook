@@ -2,402 +2,402 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/00.00-Preface/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.00-IPython-Beyond-Normal-Python/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.01-Help-And-Documentation/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.02-Shell-Keyboard-Shortcuts/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.03-Magic-Commands/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.04-Input-Output-History/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.05-IPython-And-Shell-Commands/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.06-Errors-and-Debugging/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.07-Timing-and-Profiling/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/01.08-More-IPython-Resources/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.00-Introduction-to-NumPy/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.01-Understanding-Data-Types/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.02-The-Basics-Of-NumPy-Arrays/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.03-Computation-on-arrays-ufuncs/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.04-Computation-on-arrays-aggregates/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.05-Computation-on-arrays-broadcasting/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.06-Boolean-Arrays-and-Masks/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.07-Fancy-Indexing/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.08-Sorting/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/02.09-Structured-Data-NumPy/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.00-Introduction-to-Pandas/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.01-Introducing-Pandas-Objects/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.02-Data-Indexing-and-Selection/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.03-Operations-in-Pandas/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.04-Missing-Values/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.05-Hierarchical-Indexing/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.06-Concat-And-Append/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.07-Merge-and-Join/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.08-Aggregation-and-Grouping/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.09-Pivot-Tables/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.10-Working-With-Strings/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.11-Working-with-Time-Series/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.12-Performance-Eval-and-Query/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/03.13-Further-Resources/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.00-Introduction-To-Matplotlib/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.01-Simple-Line-Plots/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.02-Simple-Scatter-Plots/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.03-Errorbars/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.04-Density-and-Contour-Plots/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.05-Histograms-and-Binnings/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.06-Customizing-Legends/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.07-Customizing-Colorbars/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.08-Multiple-Subplots/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.09-Text-and-Annotation/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.10-Customizing-Ticks/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.11-Settings-and-Stylesheets/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.12-Three-Dimensional-Plotting/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.13-Geographic-Data-With-Basemap/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.14-Visualization-With-Seaborn/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/04.15-Further-Resources/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.00-Machine-Learning/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.01-What-Is-Machine-Learning/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.02-Introducing-Scikit-Learn/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.03-Hyperparameters-and-Model-Validation/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.04-Feature-Engineering/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.05-Naive-Bayes/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.06-Linear-Regression/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.07-Support-Vector-Machines/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.08-Random-Forests/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.09-Principal-Component-Analysis/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.10-Manifold-Learning/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.11-K-Means/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.12-Gaussian-Mixtures/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.13-Kernel-Density-Estimation/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.14-Image-Features/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/05.15-Learning-More/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/Index/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/notebooks/helpers_05_08/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/tools/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/tools/add_book_info/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/tools/add_navigation/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/tools/fix_kernelspec/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/tools/generate_contents/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/website/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/website/copy_notebooks/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/website/fabfile/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/website/pelicanconf/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/website/publishconf/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jakevdp/PythonDataScienceHandbook/website/theme/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
