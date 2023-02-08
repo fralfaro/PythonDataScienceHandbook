@@ -7,6 +7,6 @@ This is the Jupyter notebook version of the [Python Data Science Handbook](http:
 
 The text is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode), and code is released under the [MIT license](https://opensource.org/licenses/MIT). If you find this content useful, please consider supporting the work by [buying the book](http://shop.oreilly.com/product/0636920034919.do)!
 
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/book_ds_handbook](https://github.com/fralfaro/book_ds_handbook).
+> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/python4ds-book).
 
 
