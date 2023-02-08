@@ -1,7 +1,7 @@
 # Python Data Science Handbook
 
-![example workflow](https://github.com/fralfaro/PythonDataScienceHandbook/actions/workflows/documentation.yml/badge.svg)
-<a href="https://fralfaro.github.io/PythonDataScienceHandbook/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+![example workflow](https://github.com/fralfaro/book_ds_handbook/actions/workflows/documentation.yml/badge.svg)
+<a href="https://fralfaro.github.io/book_ds_handbook/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
